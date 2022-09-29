@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Resume Cv using Html &CSS</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="left_side">
+            <div class="profileText">
+                <div class="imgBx">
+                    <img scr="img.jpg">
+                </div>
+                <h2>DINESH K<br><span>Electronic And Communication Engineering</h2>
+            </div>
+            <div class="contactinfo ">
+                <h3 class="title">Contact Info</h3>
+                <ul>
+                    <li>
+                        <span class="text">8610201957</span>
+                    </li>
+                    <li>
+                        <span class="text">kpdinesh2001@gamil.com</span>
+                    </li>
+                    <li>
+                        <span class="text">Chennai , Tamilnadu , India</span>
+                    </li>
+                </ul>
+            </div>    
+
+            <div class="Education ">
+                <h3 class="title">Education Details</h3>
+                <ul>
+                    <li>
+                        <h5>2019-2023</h5>
+                        <h4>BE.ECE</h4>
+                        <h4>Veltech Multitech Dr.Rnagarajan Dr.Sakunthala engineering college</h4>
+                    </li>
+                    <li>
+                        <h5>2017-2019</h5>
+                        <h4>HSC</h4>
+                        <h4>St. Ann's Matric.Hr.Sec School</h4>
+                    </li>
+                    <li>
+                        <h5>2016-2017</h5>
+                        <h4>SSC</h4>
+                        <h4>The Beloved Matric.Hr.Sec School</h4>
+                    </li>
+                </ul>
+            
+            </div>    
+            <div class="Language ">
+                <h3 class="title">Language Details</h3>
+                <ul>
+                    <li>
+                        <span class="text">English , Tamil </span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+        <div class="right_side">
+            <div class="about">
+                <h2 class="title2">My Profile</h2>
+                <p>We should not judge people by their peak of excellence;<br><br> but by the distance they have traveled from the point where they started.”</p>
+            </div>
+            <div class="Skills">
+                <h2 class="title2">Professional Skills</h2>
+                <div class="box">
+                    <h4>Html</h4>
+                    <div class="percentage">
+                        <div style="width:91%;"></div>
+                    </div>
+                </div>
+                 <div class="box">
+                    <h4>JAVA</h4>
+                    <div class="percentage">
+                        <div style="width:88%;"></div>
+                    </div>
+                </div>
+                 <div class="box">
+                    <h4>C</h4>
+                    <div class="percentage">
+                        <div style="width:97%;"></div>
+                    </div>
+                </div>
+                 <div class="box">
+                    <h4>Python</h4>
+                    <div class="percentage">
+                        <div style="width:89%;"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="My Interest">
+                <h2 class="title2">Hobby</h2>
+                <ul>
+                    <li>Gardening</li>
+                    <li>Sports</li>
+			  <li>Reading</li>
+            </div>
+        </div>
+    </div>
+</body>    
+</html>
